@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /glossary
+permalink: /glossary/
 ---
 
 # Maker Education Glossary @ *FACTLab*
