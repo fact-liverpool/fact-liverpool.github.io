@@ -1,10 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title:
+permalink: /glossary
 ---
-![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
 
-<div class="mt50"></div>
+# Maker Education Glossary @ *FACTLab*
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+## Tools
+
+### 3D printing
+
+* UP 3D Printing
+* Ultimaker
+* Formlabs
+
+### Electronics
+
+* Oscilloscope  
+* Multimeters
+* 30V 5A Adjustable Power Supply
+
+### Robotics
+* Makerblocks
