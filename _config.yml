@@ -20,7 +20,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: post/:title/
 paginate: 6
 paginate_path: /page:num/
 
@@ -28,7 +28,7 @@ paginate_path: /page:num/
 analytics:
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname:
 
 #social
 facebook: https://www.facebook.com/FACTliverpool/

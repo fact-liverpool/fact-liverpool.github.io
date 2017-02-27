@@ -4,7 +4,7 @@ title:
 permalink: /glossary/
 ---
 
-# Maker Education Glossary @ *FACTLab*
+# Maker Education Glossary @ FACTLab
 
 ## Tools
 

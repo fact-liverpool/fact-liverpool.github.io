@@ -1,28 +1,23 @@
 <div class="col-md-4 mt20">
-        <div class="post-img">
-           {% if page.img %}
-            <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
-            {% else %}
-            <img width="600" src="{{site.baseurl}}/images/{{site.default-image}}" alt="webjeda">
-            {% endif %}
-        </div>
-            
-        
         <div class="mt10 recent">
-            <h2>Recent articles</h2>        
-             <ul>
-                {% for post in site.related_posts limit:3 %}
 
-                      <li>
-                      <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small>&nbsp;&nbsp;{{ post.date | date_to_string }}</small></p>
-                      </li>
+                <h2>Categories</h2>
 
+                {% for tag in site.categories %}
+                  <h3 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h3>
+                  <ul>
+                    {% assign pages_list = tag[1] %}
+                    {% for post in pages_list %}
+                      {% if post.title != null %}
+                      {% if group == null or group == post.group %}
+                      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
+                      {% endif %}
+                      {% endif %}
+                    {% endfor %}
+                    {% assign pages_list = nil %}
+                    {% assign group = nil %}
+                  </ul>
                 {% endfor %}
-              </ul>
-        </div>
-        
-        <div class="mt10">
-            <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a></blockquote></div>
-        </div>
 
+        </div>
 </div>
