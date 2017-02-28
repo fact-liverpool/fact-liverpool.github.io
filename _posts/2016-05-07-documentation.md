@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documentation Test
+permalink: documentation-test
 img: image-5.png
 category: NSTAG, SHS
 ---
