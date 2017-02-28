@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Maker Education Glossary @ FACTLab
 permalink: /glossary/
 ---
-
-# Maker Education Glossary @ FACTLab
 
 ## Tools
 
