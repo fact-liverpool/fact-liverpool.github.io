@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: LEARNING RESOURCES FOR THE LAB
 permalink: /resources/
 ---
-
-## LEARNING RESOURCES FOR THE LAB
 
 ### Online
 
