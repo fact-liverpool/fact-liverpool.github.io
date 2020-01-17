@@ -13,6 +13,8 @@ Edited by Paulo Blikstein, Sylvia Libow Martinez, and Heather Allen Pang in coll
 
 ### General education activities and resources by tools at a lab
 
+* [Title Pro's Tinkering Guide (US, brought to our attention by the Lake Jennings BSA Troop 325)](https://www.titlemax.com/articles/title-pros-tinkering-guide/)
+
 * [Fabfellow Fablearn group at Transformative Learning Laboratory, Stanford University (Paulo Blikstein)](http://fablearn.stanford.edu/fellows/resources)
 
 * [The tinkering Studio, Exploratorium, San Francisco (Mike Petrich)](https://tinkering.exploratorium.edu/projects)
