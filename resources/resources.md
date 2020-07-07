@@ -13,6 +13,8 @@ Edited by Paulo Blikstein, Sylvia Libow Martinez, and Heather Allen Pang in coll
 
 ### General education activities and resources by tools at a lab
 
+* [Kid's Online Learning Tools for Science, Technology and Beyond! (Brought to our attention by great future engineer Hanna B.!)](https://www.bestkidstuff.com/stem/online-learning-tools-for-science-tech-and-beyond/) 
+
 * [Title Pro's Tinkering Guide (Brought to our attention by the great and curious Lake Jennings BSA Troop 325)](https://www.titlemax.com/articles/title-pros-tinkering-guide/)
 
 * [Fabfellow Fablearn group at Transformative Learning Laboratory, Stanford University (Paulo Blikstein)](http://fablearn.stanford.edu/fellows/resources)
