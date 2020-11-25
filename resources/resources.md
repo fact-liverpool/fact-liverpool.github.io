@@ -12,6 +12,7 @@ Edited by Paulo Blikstein, Sylvia Libow Martinez, and Heather Allen Pang in coll
 * [Educating the Reflective Educator: Design Processes and Digital Fabrication for the Classroom, Aarhus University (this group is currently doing a follow-up survey and interview study among Danish K-12 teachers and students, in relation to their technological competences and ability to engage designerly with wicked problems](https://www.researchgate.net/profile/Ole_Iversen/publication/310506340_Educating_the_Reflective_Educator_Design_Processes_and_Digital_Fabrication_for_the_Classroom/links/5830a3cd08ae004f74c0f335.pdf)
 
 ### General education activities and resources by tools at a lab
+* [Junior Handyman Toolkit (Brought to our attention by Austin and Lane, two great internet adventurers!)](https://dragonfiretools.com/junior-handymans-toolkit-classroom-projects-essentials-and-checklists/) 
 
 * [Kid's Online Learning Tools for Science, Technology and Beyond! (Brought to our attention by great future engineer Hanna B.!)](https://www.bestkidstuff.com/stem/online-learning-tools-for-science-tech-and-beyond/) 
 
