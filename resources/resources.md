@@ -14,6 +14,8 @@ Edited by Paulo Blikstein, Sylvia Libow Martinez, and Heather Allen Pang in coll
 ### General education activities and resources by tools at a lab
 * [Junior Handyman Toolkit (Brought to our attention by Austin and Lane, two great internet adventurers!)](https://dragonfiretools.com/junior-handymans-toolkit-classroom-projects-essentials-and-checklists/) 
 
+* [Construction And Building Projects And Activities For Kids (Brought to our attention by Maddie, whose motivation and optimism inspires us all).](https://constructiondisputes.com/construction-and-building-projects-and-activities-for-kids/) 
+
 * [Kid's Online Learning Tools for Science, Technology and Beyond! (Brought to our attention by great future engineer Hanna B.!)](https://www.bestkidstuff.com/stem/online-learning-tools-for-science-tech-and-beyond/) 
 
 * [Title Pro's Tinkering Guide (Brought to our attention by the great and curious Lake Jennings BSA Troop 325)](https://www.titlemax.com/articles/title-pros-tinkering-guide/)
